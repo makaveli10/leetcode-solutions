@@ -1,3 +1,6 @@
+#include <vector>
+#include <math.h>
+
 class Solution {
 public:
     int reverse(int x) {

@@ -1,13 +1,13 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
+#include <iostream>
+
+struct ListNode {
+    int val;
+    ListNode *next;
+    ListNode() : val(0), next(nullptr) {}
+    ListNode(int x) : val(x), next(nullptr) {}
+    ListNode(int x, ListNode *next) : val(x), next(next) {}
+};
+ 
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
@@ -28,7 +28,7 @@ public:
         }
         ListNode* t = prev;
         while(t !=nullptr){
-            cout << t->val << " ";
+            std::cout << t->val << " ";
             t = t -> next;
         }
         if (fast == nullptr){

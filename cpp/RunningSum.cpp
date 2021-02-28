@@ -1,6 +1,8 @@
+#include <vector>
+
 class Solution {
 public:
-    vector<int> runningSum(vector<int>& nums) {
+    std::vector<int> runningSum(std::vector<int>& nums) {
         if ((int)nums.size() ==1)
             return nums;
         
