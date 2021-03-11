@@ -1,2 +1,21 @@
 # Leetcode Solutions
 Some of the leetcode problems solved in C++. If you find a more optimal approach most welcome.
+
+1. [Add One row to tree](https://leetcode.com/problems/add-one-row-to-tree/submissions/) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/addOneRowToTree.cpp)
+2. [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/arithmeticSlices.cpp)
+3. [Clone Graph](https://leetcode.com/problems/clone-graph/) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/cloneGraph.cpp)
+4. [Container with most water](https://leetcode.com/problems/container-with-most-water/) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/containerWithMostWater.cpp)
+5. [Kids with greatest number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/KidsWithGreatestCandies.cpp)
+6. [The K weakest rows in a matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/kWeakestRows.cpp)
+7. [Letter case permutation](https://leetcode.com/problems/letter-case-permutation) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/letterCasePermutation.cpp)
+8. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/linkedListCycle.cpp)
+9. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/MergeSortedList.cpp)
+10. [Number of 1 bits](https://leetcode.com/problems/number-of-1-bits) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/numberOf1Bits.cpp)
+11. [Palindrome Number](https://leetcode.com/problems/palindrome-number) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/PalindromeNumber.cpp)
+12. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/PalindromeLinkedList.cpp)
+13. [Remove Duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/RemoevDuplicates.cpp)
+14. [Remove Element](https://leetcode.com/problems/remove-element) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/RemoveElement.cpp)
+15. [Reverse Integer](https://leetcode.com/problems/reverse-integer) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/ReverseInteger.cpp)
+16. [Running Sum](https://leetcode.com/problems/running-sum-of-1d-array) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/RunningSum.cpp)
+17. [Shuffle the array](https://leetcode.com/problems/shuffle-the-array) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/ShuffleTheArray.cpp)
+18. [Trim BST](https://leetcode.com/problems/trim-a-binary-search-tree) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/trimBST.cpp)
