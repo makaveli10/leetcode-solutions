@@ -1,5 +1,5 @@
 # Leetcode Solutions
-Some of the leetcode problems solved in C++. If you find a more optimal approach most welcome.
+Some of the leetcode problems solved in C++. If you find a more optimal approach most welcome to submit a Pull request.
 
 1. [Add One row to tree](https://leetcode.com/problems/add-one-row-to-tree/submissions/) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/addOneRowToTree.cpp)
 2. [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/arithmeticSlices.cpp)
@@ -19,3 +19,4 @@ Some of the leetcode problems solved in C++. If you find a more optimal approach
 16. [Running Sum](https://leetcode.com/problems/running-sum-of-1d-array) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/RunningSum.cpp)
 17. [Shuffle the array](https://leetcode.com/problems/shuffle-the-array) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/ShuffleTheArray.cpp)
 18. [Trim BST](https://leetcode.com/problems/trim-a-binary-search-tree) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/trimBST.cpp)
+19. [Keys And Rooms](https://leetcode.com/problems/keys-and-rooms) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/keysAndRooms.cpp)
