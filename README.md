@@ -20,3 +20,7 @@ Some of the leetcode problems solved in C++. If you find a more optimal approach
 17. [Shuffle the array](https://leetcode.com/problems/shuffle-the-array) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/ShuffleTheArray.cpp)
 18. [Trim BST](https://leetcode.com/problems/trim-a-binary-search-tree) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/trimBST.cpp)
 19. [Keys And Rooms](https://leetcode.com/problems/keys-and-rooms) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/keysAndRooms.cpp)
+20. [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/russianDollEnvelopes.cpp)
+21. [Flip Binary Tree to Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/flipBinaryTreeToMatchPreorderTraversal.cpp)
+22. [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/minimumOperationstoMakeArrayEqual.cpp)
+22. [Letter Combinations Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) -- [Solution](https://github.com/makaveli10/leetcode-solutions/blob/master/cpp/letterCombinationsPhoneNumber.cpp)
